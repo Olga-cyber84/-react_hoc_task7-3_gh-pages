@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_hoc_task7-3_gh-pages/static/css/main.72505717.chunk.css",
+    "main.js": "/react_hoc_task7-3_gh-pages/static/js/main.6d6bd7c1.chunk.js",
+    "main.js.map": "/react_hoc_task7-3_gh-pages/static/js/main.6d6bd7c1.chunk.js.map",
+    "runtime-main.js": "/react_hoc_task7-3_gh-pages/static/js/runtime-main.74226095.js",
+    "runtime-main.js.map": "/react_hoc_task7-3_gh-pages/static/js/runtime-main.74226095.js.map",
+    "static/js/2.fc0d2bee.chunk.js": "/react_hoc_task7-3_gh-pages/static/js/2.fc0d2bee.chunk.js",
+    "static/js/2.fc0d2bee.chunk.js.map": "/react_hoc_task7-3_gh-pages/static/js/2.fc0d2bee.chunk.js.map",
+    "static/js/3.d5989f6b.chunk.js": "/react_hoc_task7-3_gh-pages/static/js/3.d5989f6b.chunk.js",
+    "static/js/3.d5989f6b.chunk.js.map": "/react_hoc_task7-3_gh-pages/static/js/3.d5989f6b.chunk.js.map",
+    "index.html": "/react_hoc_task7-3_gh-pages/index.html",
+    "static/css/main.72505717.chunk.css.map": "/react_hoc_task7-3_gh-pages/static/css/main.72505717.chunk.css.map",
+    "static/js/2.fc0d2bee.chunk.js.LICENSE.txt": "/react_hoc_task7-3_gh-pages/static/js/2.fc0d2bee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74226095.js",
+    "static/js/2.fc0d2bee.chunk.js",
+    "static/css/main.72505717.chunk.css",
+    "static/js/main.6d6bd7c1.chunk.js"
+  ]
+}
